@@ -49,6 +49,9 @@ sudo systemctl status nginx
 ```bash
 http://＜パブリックIP＞
 ```
+Nginx の初期ページ（Welcome to nginx!）が表示されることを確認。
+
+---
 
 ## ■ EBS（Elastic Block Store）の料金理解
 
